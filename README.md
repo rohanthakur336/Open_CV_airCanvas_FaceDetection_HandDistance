@@ -25,7 +25,7 @@ This project utilizes OpenCV and Mediapipe to create an air canvas, detect faces
 4. The screen-to-hand distance will be displayed on the screen.
 
 ## Files
-- `main.py`: Main script for running the application.
+- `OpenCV_airCanvas_faceDetection.py`: Main script for running the application.
 - `requirements.txt`: List of dependencies for easy installation.
 
 ## Configuration
